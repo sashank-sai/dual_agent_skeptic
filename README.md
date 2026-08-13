@@ -84,6 +84,4 @@ dual_agent_skeptic/
 └── .env                # Environment variables (API Keys)
 ```
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
